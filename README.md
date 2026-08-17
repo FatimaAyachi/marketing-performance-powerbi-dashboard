@@ -15,10 +15,5 @@ Ce projet présente la conception et le développement d'un tableau de bord déc
 - **Traitement des Données :** Modélisation relationnelle, DAX (Data Analysis Expressions)
 - **Source de Données :** Fichiers de données structurés (CSV / Excel)
 
-##  Contenu du Dépôt
-- `datasets/` : Échantillons de données anonymisées utilisés pour alimenter le modèle.
-- `screenshots/` : Aperçus visuels des différentes pages du tableau de bord.
-
-
 ---
 *Projet réalisé pour transformer des données brutes en insights stratégiques exploitables.*
